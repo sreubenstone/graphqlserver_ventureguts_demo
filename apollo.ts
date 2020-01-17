@@ -19,7 +19,7 @@ const pubsub = new RedisPubSub({
 });
 const CHAT_SENT_TOPIC = "newChat";
 const Mixpanel = require("mixpanel");
-const mixpanel = Mixpanel.init("d06de371bc5fc33e5ce31430ecf7dc7e");
+const mixpanel = Mixpanel.init("");
 
 const typeDefs = gql`
   type User {
