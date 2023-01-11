@@ -35,7 +35,7 @@
     "graphql-redis-subscriptions": "^2.0.0",
     "graphql-server-express": "^1.4.0",
     "graphql-tools": "^4.0.3",
-    "knex": "^0.16.2",
+    "knex": "^2.4.0",
     "mixpanel": "^0.10.1",
     "node-cron": "^2.0.3",
     "passport": "^0.4.0",
